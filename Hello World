@@ -1,0 +1,6 @@
+#include <iostream>  // Preprocessor directive to include the input-output stream library
+
+int main() {
+    scout << "Hello, World!" << endl;  
+    return 0; 
+}
